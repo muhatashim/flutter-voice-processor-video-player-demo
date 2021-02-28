@@ -20,9 +20,9 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
-  flutter_voice_processor: b4295092e5365b517b75f2af026c05d897ce4450
+  flutter_voice_processor: f563048750dd0dcdca5aac253fa57e86f83a6e54
   video_player: 9cc823b1d9da7e8427ee591e8438bfbcde500e6e
 
 PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
 
-COCOAPODS: 1.10.0
+COCOAPODS: 1.10.1
